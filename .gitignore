@@ -1,0 +1,7 @@
+# Mac desktop service store files
+.DS_Store
+Icon?
+
+# VS code
+.vscode/*
+!.vscode/extensions.json
